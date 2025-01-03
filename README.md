@@ -2,6 +2,17 @@
 
 Welcome to **All About GitHub**! This course is a comprehensive guide to mastering Git and GitHub. Whether you're a beginner or an experienced developer looking to sharpen your skills, this playlist covers all the essential topics to become proficient in version control and collaboration using Git and GitHub. [Watch Full Course](https://www.youtube.com/playlist?list=PLKdU0fuY4OFcK__Q5tjqZY5mSx_u7ghUx).
 
+---
+
+## Instructor
+
+**Abu Noman Basar**  
+[LinkedIn Profile](https://www.linkedin.com/in/anbasar/)  
+Software Engineer (Python), eAppair Ltd  
+[Django Instructor](https://aiquest.org/courses/become-a-django-developer/) at aiQuest Intelligence
+
+---
+
 ## Course Content
 
 ### Introduction to Git and Version Control
@@ -75,15 +86,6 @@ Automate workflows and integrate continuous integration/continuous deployment pi
 
 ## Full Playlist
 **[Watch the Full Course Here](https://www.youtube.com/playlist?list=PLKdU0fuY4OFcK__Q5tjqZY5mSx_u7ghUx)**
-
----
-
-## Instructor
-
-**Abu Noman Basar**  
-[LinkedIn Profile](https://www.linkedin.com/in/anbasar/)  
-Software Engineer (Python), eAppair Ltd  
-[Django Instructor](https://aiquest.org/courses/become-a-django-developer/) at aiQuest Intelligence
 
 ---
 
