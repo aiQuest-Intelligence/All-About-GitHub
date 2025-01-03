@@ -1,6 +1,6 @@
 # All About GitHub
 
-Welcome to **All About GitHub**! This course is a comprehensive guide to mastering Git and GitHub. Whether you're a beginner or an experienced developer looking to sharpen your skills, this playlist covers all the essential topics to become proficient in version control and collaboration using Git and GitHub. [Watch Full Course]((https://www.youtube.com/playlist?list=PLKdU0fuY4OFcK__Q5tjqZY5mSx_u7ghUx))
+Welcome to **All About GitHub**! This course is a comprehensive guide to mastering Git and GitHub. Whether you're a beginner or an experienced developer looking to sharpen your skills, this playlist covers all the essential topics to become proficient in version control and collaboration using Git and GitHub. [Watch Full Course](https://www.youtube.com/playlist?list=PLKdU0fuY4OFcK__Q5tjqZY5mSx_u7ghUx).
 
 ## Course Content
 
