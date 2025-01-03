@@ -9,7 +9,7 @@ Welcome to **All About GitHub**! This course is a comprehensive guide to masteri
 **Abu Noman Basar**  
 [LinkedIn Profile](https://www.linkedin.com/in/anbasar/)  
 Software Engineer (Python), eAppair Ltd  
-[Django Instructor](https://aiquest.org/courses/become-a-django-developer/) at aiQuest Intelligence
+Django Instructor at [aiQuest Intelligence](https://aiquest.org/courses/become-a-django-developer/)
 
 ---
 
